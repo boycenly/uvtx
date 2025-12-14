@@ -1,6 +1,6 @@
 # uvtx
 
-[![CI](https://github.com/mikeleppane/uvtxx/workflows/CI/badge.svg)](https://github.com/mikeleppane/uvtxx/actions)
+[![CI](https://github.com/mikeleppane/uvtx/workflows/CI/badge.svg)](https://github.com/mikeleppane/uvtx/actions)
 [![PyPI](https://img.shields.io/pypi/v/uvtx.svg)](https://pypi.org/project/uvtx/)
 [![Python](https://img.shields.io/pypi/pyversions/uvtx.svg)](https://pypi.org/project/uvtx/)
 [![License](https://img.shields.io/pypi/l/uvtx.svg)](https://github.com/mikeleppane/uvtxx/blob/main/LICENSE)
