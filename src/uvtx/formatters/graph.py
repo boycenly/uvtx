@@ -21,7 +21,9 @@ def format_graph_ascii(graph: TaskGraph, root_task: str | None = None) -> str:
     output_lines: list[str] = []
     visited: set[str] = set()
 
-    def render_tree(task: str, prefix: str = "", is_last: bool = True, path: set[str] | None = None) -> None:
+    def render_tree(
+        task: str, prefix: str = "", is_last: bool = True, path: set[str] | None = None
+    ) -> None:
         """Recursively render task tree with cycle detection."""
         if path is None:
             path = set()
